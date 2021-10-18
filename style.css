@@ -10,3 +10,19 @@ body {
 #Transition-Area {
   display: none;
 }
+.status {
+  color: white;
+  margin: 0 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.Deposit {
+  background-color: blue;
+}
+.withdraw {
+  background-color: lightsalmon;
+}
+.Balance {
+  background-color: orange;
+}
